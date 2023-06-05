@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+main {display:block;}
 header,
 footer {
  width: 100%;
@@ -11,8 +12,9 @@ footer {
 }
 
 h1,
-h2 {
-    text-align: center;}
+H2 {
+    text-align: center;
+}
 
 img {
  display: block;
@@ -22,18 +24,19 @@ img {
  margin-right: auto;
 }
 
-ul {
+ul{
  padding-left: 40px;
  font-size: 20px;
 }
 
 p {
  text-align: center;
- font-size: 30px;}
-
+ font-size: 30px;
+}
 
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888; }
+    border: 5px solid grey;
+    box-shadow: 5px 10px #888888;
+ }
